@@ -1,0 +1,6 @@
+{
+  "name": "Teknik Industri Telkom University Hub",
+  "description": "Website interaktif Program Studi Teknik Industri Telkom University, dilengkapi dengan Virtual Lab Workstation Simulator, Interactive Curriculum Planner, dan AI Academic Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
